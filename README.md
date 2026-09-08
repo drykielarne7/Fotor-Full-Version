@@ -266,3 +266,6 @@ This repository serves as the official landing page for Fotor. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Fotor today!**
+
+---
+**Last updated:** 2026-09-08 23:11:21 UTC
