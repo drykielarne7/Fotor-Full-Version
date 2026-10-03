@@ -268,4 +268,4 @@ This repository serves as the official landing page for Fotor. The software is d
 **Get the most recent version of Fotor today!**
 
 ---
-**Last updated:** 2026-10-02 20:20:56 UTC
+**Last updated:** 2026-10-03 00:09:13 UTC
